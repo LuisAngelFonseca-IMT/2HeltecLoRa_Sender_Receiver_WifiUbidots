@@ -17,3 +17,5 @@ The aim of this repository is to show how to use a Heltec WIFI LoRa 32 (V2) to t
 - Open the Reciever code, enter the credentials from ubidots, wifi name and password 
 - Upload the code to the developer board with out the DHT22
 - Finally upload the Sender code to the other board. 
+![Sender](images/sender.jpeg)
+![Receiver](images/receiver.jpeg)
