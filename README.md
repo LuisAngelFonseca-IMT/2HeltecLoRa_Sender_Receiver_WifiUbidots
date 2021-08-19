@@ -13,3 +13,7 @@ The aim of this repository is to show how to use a Heltec WIFI LoRa 32 (V2) to t
 - Enter into your new device and click on "Add Variable".
 - Finally, save your credentials for next step.
 ![Ubidots](images/ubidots.png)
+## Uploading Code
+- Open the Reciever code, enter the credentials from ubidots, wifi name and password 
+- Upload the code to one developer board 
+- Finally upload the Sender code to the other board. 
