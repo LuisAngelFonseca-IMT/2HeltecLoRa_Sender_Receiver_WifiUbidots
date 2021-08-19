@@ -5,3 +5,7 @@ The aim of this repository is to show how to use a Heltec WIFI LoRa 32 (V2) to t
 - [Temperature and Humidity Sensor DHT22](https://www.amazon.com/temperatura-Monitores-reemplazar-electr%C3%B3nica-pr%C3%A1ctica/dp/B0795F19W6/ref=sr_1_1_sspa?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=DHT22&qid=1629408809&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyRzVVN0YwT05DN05NJmVuY3J5cHRlZElkPUExMDE1NzIzMzBZVzlWSTc5TVBYMyZlbmNyeXB0ZWRBZElkPUEwODg1MTA4MkU5WTlBSERCN05aMiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) 
 ## Wiring Diagram
 ![Wiring Diagram](images/Heltec_DHT22_pinout.png)
+## Before uploading the code 
+- Create an account in [Ubidots](https://ubidots.com/).
+- Then click on devices and create a new device.
+![Devices](images/device.png)
