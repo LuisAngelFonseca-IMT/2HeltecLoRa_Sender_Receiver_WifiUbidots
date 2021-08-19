@@ -9,3 +9,7 @@ The aim of this repository is to show how to use a Heltec WIFI LoRa 32 (V2) to t
 - Create an account in [Ubidots](https://ubidots.com/).
 - Then click on devices and create a new device.
 ![Devices](images/device.png)
+- After, choose blank device and enter a device name and label.
+- Enter into your new device and click on "Add Variable".
+- Finally, save your credentials for next step.
+![Ubidots](images/ubidots.png)
